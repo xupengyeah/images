@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 471 413" style="enable-background:new 0 0 471 413;" xml:space="preserve">
+<symbol  id="LOGO" viewBox="-235.5 -206.5 471 413">
+	<g id="图层_2_00000076599966723072915940000006760717203668918690_">
+		<g id="图层_2-2_00000152949854673128967510000014774099785312746149_">
+			<rect x="-235.5" y="-206.5" width="11.7" height="412"/>
+			<rect x="-135.1" y="-206.5" width="11.7" height="412"/>
+			<rect x="-34.6" y="-206.5" width="11.7" height="412"/>
+			<rect x="16.1" y="-145.4" width="11.7" height="298.6"/>
+			<rect x="-85.3" y="17.5" width="11.7" height="135.7"/>
+			<rect x="-85.3" y="14.5" width="58.5" height="11.6"/>
+			<rect x="-85.3" y="-148.3" width="11.7" height="135.7"/>
+			<rect x="-189.7" y="-145.4" width="11.7" height="298.6"/>
+			<rect x="66.8" y="-206.5" width="11.7" height="412"/>
+			<rect x="122.4" y="-194.9" width="56.6" height="285"/>
+			<rect x="178.9" y="90.2" width="56.6" height="43.6"/>
+			<rect x="-235.5" y="194.9" width="314" height="11.6"/>
+			<rect x="78.5" y="194.9" width="102.4" height="11.6"/>
+			<rect x="-235.5" y="-206.5" width="414.4" height="11.6"/>
+			<path d="M180.9,194.9h-59.6c0-33.8,26.6-61.1,59.6-61.1h53.6v0.3C204.4,137.2,180.9,163.2,180.9,194.9z"/>
+		</g>
+	</g>
+</symbol>
+<use xlink:href="#LOGO"  width="471" height="413" x="-235.5" y="-206.5" transform="matrix(1 0 0 -1 235.5 206.5)" style="overflow:visible;"/>
+</svg>
